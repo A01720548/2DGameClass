@@ -4,10 +4,12 @@ using UnityEngine;
 
 public class Chest : MonoBehaviour
 {
+    public int value;
+    private LevelManager gameLevelManager;
     // Start is called before the first frame update
     void Start()
     {
-        
+        gameLevelManager = FindObjectOfType<LevelManager>();
     }
 
     // Update is called once per frame
@@ -17,6 +19,10 @@ public class Chest : MonoBehaviour
     }
 
     void OnTriggerEnter2D(Collider2D other) {
-        Destroy(gameObject);
+        if (other.tag == "character") {
+            Destroy(gameObject);
+            gameLevelManager.reollectItems(value);
+            Debug.Log("Recollected Item");
+        }
     }
 }

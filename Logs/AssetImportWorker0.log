@@ -1,0 +1,529 @@
+Using pre-set license
+Built from '2021.1/release' branch; Version is '2021.1.4f1 (4cd64a618c1b) revision 5035594'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.985; Version 2009; 64bit' Language: 'en' Physical Memory: 16342 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/edela/workspace/tec/Cuarto Semestre/Construccion de Software y Toma de Decisiones/RetoCEMEX/2DGameClass
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+65440
+Successfully changed project path to: C:/Users/edela/workspace/tec/Cuarto Semestre/Construccion de Software y Toma de Decisiones/RetoCEMEX/2DGameClass
+C:/Users/edela/workspace/tec/Cuarto Semestre/Construccion de Software y Toma de Decisiones/RetoCEMEX/2DGameClass
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 131.05 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.4f1 (4cd64a618c1b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/edela/workspace/tec/Cuarto Semestre/Construccion de Software y Toma de Decisiones/RetoCEMEX/2DGameClass/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     8079 MB
+    Driver:   27.21.14.6611
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56616
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002294 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 145.07 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.685 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005081 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 175.96 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.796 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3374 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.7 MB.
+System memory in use after: 129.8 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3826.
+Total: 5.176900 ms (FindLiveObjects: 0.513900 ms CreateObjectMapping: 0.318000 ms MarkObjects: 4.105700 ms  DeleteObjects: 0.237100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/LevelManager.cs
+  artifactKey: Guid(1f7e579ca6de54048943edba4a8fc2fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LevelManager.cs using Guid(1f7e579ca6de54048943edba4a8fc2fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd81f6a8a041a1070f33cd097f4bff69d') in 0.069750 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009088 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.244 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.20 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3369 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.7 MB.
+System memory in use after: 129.8 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3830.
+Total: 3.524500 ms (FindLiveObjects: 0.302000 ms CreateObjectMapping: 0.220400 ms MarkObjects: 2.898800 ms  DeleteObjects: 0.101800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.855515 seconds.
+  path: Assets/Scripts/Chest.cs
+  artifactKey: Guid(20158ccf150f8e14aa4bbbb9107ea1da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Chest.cs using Guid(20158ccf150f8e14aa4bbbb9107ea1da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21a1dd1bdc29c1ffca93c26296ccde0b') in 0.016012 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 96.737345 seconds.
+  path: Assets/Scripts/Chest.cs
+  artifactKey: Guid(20158ccf150f8e14aa4bbbb9107ea1da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Chest.cs using Guid(20158ccf150f8e14aa4bbbb9107ea1da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6f1e8ad0894b040c8bf074c7d77a228') in 0.002930 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006656 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.107 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3369 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.8 MB.
+System memory in use after: 129.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3834.
+Total: 2.988100 ms (FindLiveObjects: 0.260700 ms CreateObjectMapping: 0.212000 ms MarkObjects: 2.357100 ms  DeleteObjects: 0.156700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004081 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.070 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3369 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.8 MB.
+System memory in use after: 129.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3838.
+Total: 4.603700 ms (FindLiveObjects: 0.408100 ms CreateObjectMapping: 0.297000 ms MarkObjects: 3.679100 ms  DeleteObjects: 0.218100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004320 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.145 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3369 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.8 MB.
+System memory in use after: 129.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3842.
+Total: 2.667200 ms (FindLiveObjects: 0.271200 ms CreateObjectMapping: 0.184900 ms MarkObjects: 2.079000 ms  DeleteObjects: 0.130700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004316 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.100 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.98 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3369 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.8 MB.
+System memory in use after: 129.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3846.
+Total: 3.124700 ms (FindLiveObjects: 0.266600 ms CreateObjectMapping: 0.160100 ms MarkObjects: 2.575100 ms  DeleteObjects: 0.121900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004420 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.137 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.14 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3369 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.9 MB.
+System memory in use after: 130.0 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3850.
+Total: 2.805500 ms (FindLiveObjects: 0.287600 ms CreateObjectMapping: 0.170800 ms MarkObjects: 2.198000 ms  DeleteObjects: 0.148300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004429 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.092 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3369 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.9 MB.
+System memory in use after: 130.0 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 3854.
+Total: 2.735700 ms (FindLiveObjects: 0.258800 ms CreateObjectMapping: 0.130600 ms MarkObjects: 2.205400 ms  DeleteObjects: 0.140100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1402.690224 seconds.
+  path: Assets/Prefabs/Chest.prefab
+  artifactKey: Guid(d23814671f02f54419000219b603c12d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chest.prefab using Guid(d23814671f02f54419000219b603c12d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34bfe5138d52ee19c950c1aef0810a2a') in 0.032603 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.604318 seconds.
+  path: Assets/Prefabs/Chest.prefab
+  artifactKey: Guid(d23814671f02f54419000219b603c12d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Chest.prefab using Guid(d23814671f02f54419000219b603c12d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4af65118f9d6f200e3e688b738d6857') in 0.077479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 43.847524 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run
+  artifactKey: Guid(20784f6bc83ac7d4aa163c433f29f588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run using Guid(20784f6bc83ac7d4aa163c433f29f588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c61f2cc4e0a477b5ce1d26c1ceb8fe36') in 0.009789 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.061595 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_0.png
+  artifactKey: Guid(f26824e74d90c3e478b4d5888b0af0fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_0.png using Guid(f26824e74d90c3e478b4d5888b0af0fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '538d2307f977ff358d6b66d1ba3a3b84') in 0.097908 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_13.png
+  artifactKey: Guid(7600f1217d8591f42bcbf18de5fcdc1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_13.png using Guid(7600f1217d8591f42bcbf18de5fcdc1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f6a4bdd07a7823d9452f09b4d58557a') in 0.030224 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_9.png
+  artifactKey: Guid(e2bffe61dccd7da41804771671ef0a4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_9.png using Guid(e2bffe61dccd7da41804771671ef0a4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a5d1ef883bba99e051325cba4960248') in 0.029240 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_10.png
+  artifactKey: Guid(bdb16933a89d9fc4ebe7d912c7d76bbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_10.png using Guid(bdb16933a89d9fc4ebe7d912c7d76bbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b658d91f94f7db4cd61c19bc527e80f') in 0.026884 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_7.png
+  artifactKey: Guid(6188c65e3819c964c9ceb1309cc7ccb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_7.png using Guid(6188c65e3819c964c9ceb1309cc7ccb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '810c9f5808270c9b012fd30f34f130d4') in 0.027491 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_2.png
+  artifactKey: Guid(11bed6aa11e19d64b87dea34c1c303b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_2.png using Guid(11bed6aa11e19d64b87dea34c1c303b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17187b78d2f3f3e2d1cfd5b0166eaa58') in 0.027498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_6.png
+  artifactKey: Guid(a6a4510910050d849961aa22aadbcf93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_6.png using Guid(a6a4510910050d849961aa22aadbcf93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b29552e59364895d603d9ffc6cb073e') in 0.026458 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_4.png
+  artifactKey: Guid(8a7ace67a8aedc944b7bf4c02b6f75bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_4.png using Guid(8a7ace67a8aedc944b7bf4c02b6f75bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9567c7c2470a9fbb59da268e75de234b') in 0.030658 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_1.png
+  artifactKey: Guid(db06d2661cae2a044858f2f7724445d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_1.png using Guid(db06d2661cae2a044858f2f7724445d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2334c6d3da43b9d14731505730d454e') in 0.025099 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_11.png
+  artifactKey: Guid(ae621e20e8a4084419e59cd6f510117f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_11.png using Guid(ae621e20e8a4084419e59cd6f510117f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa02adc29bb90a8a97710de1ca9b2742') in 0.025180 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_5.png
+  artifactKey: Guid(f37dcce05c1f4a44fabf059a9c64bdac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_5.png using Guid(f37dcce05c1f4a44fabf059a9c64bdac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '971032f0aa1e5690e890108ce7e0a270') in 0.024261 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000523 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_3.png
+  artifactKey: Guid(fb786a014b071484fadc06d920d5b49b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_3.png using Guid(fb786a014b071484fadc06d920d5b49b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77f234689a00efe67c00fcf6ca194326') in 0.026388 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_15.png
+  artifactKey: Guid(2470fd1faa2a65241935ccf18d9cd1de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_15.png using Guid(2470fd1faa2a65241935ccf18d9cd1de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '901976925232795fa4a9e5eeca683687') in 0.027924 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_12.png
+  artifactKey: Guid(7b78c6fbeaa101b4986235ec3b5a7957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_12.png using Guid(7b78c6fbeaa101b4986235ec3b5a7957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fc4bc29557335233d166299f76bfa03') in 0.024419 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_14.png
+  artifactKey: Guid(69f29d2344d7a76478c8c0c5dd74607f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_14.png using Guid(69f29d2344d7a76478c8c0c5dd74607f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec9bf442ad92e3b609753a84efef9c22') in 0.033003 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_8.png
+  artifactKey: Guid(c81b01dec83844b4a903a5f93cefb9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Player/CharacterBack/Run/CharacterBack-Run_8.png using Guid(c81b01dec83844b4a903a5f93cefb9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11a1130e7b45caa5a4efc292ad937f77') in 0.028275 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.494282 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/LeftDoor
+  artifactKey: Guid(0ddac05cbb3ee0044bf09ada30905cdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/LeftDoor using Guid(0ddac05cbb3ee0044bf09ada30905cdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd5d4b0477efd5a50b4082fb7005170b') in 0.008650 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.208176 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/LeftDoor/LeftDoor1.png
+  artifactKey: Guid(dd1304915c5e81b4ca87e413f3786ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/LeftDoor/LeftDoor1.png using Guid(dd1304915c5e81b4ca87e413f3786ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ff5806aa42dcb079c10cfaf53e1105e') in 0.023651 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/LeftDoor/LeftDoorBorder.png
+  artifactKey: Guid(8b6ecb1e54fce00458e61a78dae8ca8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/LeftDoor/LeftDoorBorder.png using Guid(8b6ecb1e54fce00458e61a78dae8ca8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7da38dfa46cc130b8ee628d05c72fe4d') in 0.028039 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000436 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/LeftDoor/LeftDoor2.png
+  artifactKey: Guid(a474072e787426d408d35b1cd3375500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/LeftDoor/LeftDoor2.png using Guid(a474072e787426d408d35b1cd3375500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2996e68bb256a78410c911e59223d7fa') in 0.023785 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/LeftDoor/LeftDoorBackside.png
+  artifactKey: Guid(081047fe09ad4284a9314425fae1f8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/LeftDoor/LeftDoorBackside.png using Guid(081047fe09ad4284a9314425fae1f8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fcf32844da10c009e2967d7cc21144a') in 0.026568 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/LeftDoor/LeftDoor3.png
+  artifactKey: Guid(a5e68627b96afeb429f5841a73d8e915) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/LeftDoor/LeftDoor3.png using Guid(a5e68627b96afeb429f5841a73d8e915) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10e35dd1208998c7a2a21ad85c74b6cc') in 0.021421 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.543585 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/Walls
+  artifactKey: Guid(7fbe087b8780f02428170d93eccf924f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/Walls using Guid(7fbe087b8780f02428170d93eccf924f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1864e6f8dcf9d725343ab8068a86d9cf') in 0.007839 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.381594 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/Walls/9x11Room
+  artifactKey: Guid(289dd53cad82e5045ae6f62ff39db14b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/Walls/9x11Room using Guid(289dd53cad82e5045ae6f62ff39db14b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efdbb31fd8dae2569deffebe241388bd') in 0.008019 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.063661 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/Walls/9x11Room/bot_wall.png
+  artifactKey: Guid(c4b3d20967c78da41ad15b663fc0844a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/Walls/9x11Room/bot_wall.png using Guid(c4b3d20967c78da41ad15b663fc0844a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aebd550b67ec1e8d447cf1d9747c04b') in 0.029100 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/Walls/9x11Room/right_wall.png
+  artifactKey: Guid(cfed8253374dc774d805b0bdf4a08fd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/Walls/9x11Room/right_wall.png using Guid(cfed8253374dc774d805b0bdf4a08fd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4f7dc382389e2692a44cbd4644a2d18') in 0.028940 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/Walls/9x11Room/left_wall.png
+  artifactKey: Guid(4ca4a790e18ba9f4b94edce23b4257f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/Walls/9x11Room/left_wall.png using Guid(4ca4a790e18ba9f4b94edce23b4257f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '079426e066b11ec5ce6adb66099c618e') in 0.025862 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/Walls/9x11Room/top_wall.png
+  artifactKey: Guid(fdacfff9d4ec0df4e8587916bea9589b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/Walls/9x11Room/top_wall.png using Guid(fdacfff9d4ec0df4e8587916bea9589b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0753ca6c5e219f2a18bb2f488eac3668') in 0.024688 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.214369 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/BottomDoor
+  artifactKey: Guid(3e8c57c4917dcb2459224ad844cbd959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/BottomDoor using Guid(3e8c57c4917dcb2459224ad844cbd959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cdb49cac90cd2bdd0b5f10f99a7f1fd') in 0.008505 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.065901 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/BottomDoor/BottomDoor1.png
+  artifactKey: Guid(401acac32b3da254db8392c89737de62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/BottomDoor/BottomDoor1.png using Guid(401acac32b3da254db8392c89737de62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97b3f5ac6bfde5102d0b2bc8846c2eea') in 0.022934 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/BottomDoor/BottomDoor2.png
+  artifactKey: Guid(51c1d88064c56cc4380157a95b4cef4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/BottomDoor/BottomDoor2.png using Guid(51c1d88064c56cc4380157a95b4cef4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fbec847fb0836061c8d09d465950d4d') in 0.024146 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/BottomDoor/BottomDoor3.png
+  artifactKey: Guid(e650ca75316c414448d9450463289fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/BottomDoor/BottomDoor3.png using Guid(e650ca75316c414448d9450463289fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '453fafae6244edc556d847fc7d8c6b4f') in 0.023039 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/BottomDoor/BottomDoorBackside.png
+  artifactKey: Guid(363152a7289f0cf4e85d2dd9cf2c97d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/BottomDoor/BottomDoorBackside.png using Guid(363152a7289f0cf4e85d2dd9cf2c97d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e9a48d5ddd51b92da457a21d6ab4890') in 0.024296 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000429 seconds.
+  path: Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/BottomDoor/BottomDoorBorder.png
+  artifactKey: Guid(6031c1b927cdb5542be983cd4194e909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Dungeon Crawler 2D Art Pack/Sprites/Level/BottomDoor/BottomDoorBorder.png using Guid(6031c1b927cdb5542be983cd4194e909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49cb7d6866ffcf217f67b6c2c0d03ced') in 0.025195 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004394 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.110 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3399 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.5 MB.
+System memory in use after: 159.6 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4338.
+Total: 3.504100 ms (FindLiveObjects: 0.342000 ms CreateObjectMapping: 0.210400 ms MarkObjects: 2.803000 ms  DeleteObjects: 0.147700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004250 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.073 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3369 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.2 MB.
+System memory in use after: 158.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4342.
+Total: 3.542400 ms (FindLiveObjects: 0.313800 ms CreateObjectMapping: 0.183000 ms MarkObjects: 2.888000 ms  DeleteObjects: 0.156500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004488 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.094 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3369 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.2 MB.
+System memory in use after: 158.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4346.
+Total: 2.947000 ms (FindLiveObjects: 0.339600 ms CreateObjectMapping: 0.226300 ms MarkObjects: 2.269300 ms  DeleteObjects: 0.110900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004380 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.052 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3369 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.3 MB.
+System memory in use after: 158.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4350.
+Total: 2.841100 ms (FindLiveObjects: 0.302300 ms CreateObjectMapping: 0.147200 ms MarkObjects: 2.283500 ms  DeleteObjects: 0.107300 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
